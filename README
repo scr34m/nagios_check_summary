@@ -1,0 +1,4 @@
+Nagios plugin to collect host and service statuses from other Nagios and report as one
+
+Concept based on https://www.vanheusden.com/check_nagios_summary/
+Source ot the parser for status.dat come from https://github.com/labsud/NagiosScroller/blob/master/CGI/text.cgi
